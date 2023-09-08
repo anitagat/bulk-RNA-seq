@@ -1,4 +1,4 @@
-Bulk RNA-seq code 
+# Bulk RNA-seq code 
 
 Required: 
 4 files 
