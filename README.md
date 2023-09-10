@@ -8,7 +8,7 @@ The code parses the files and produces the following plots and analyses:
 - Faceted boxplots 
 - Pathway analysis
   
-# Table of contents: 
+## Table of contents: 
 - Parsing function
 - save.png function
 - save.emf function
@@ -19,15 +19,15 @@ The code parses the files and produces the following plots and analyses:
 - Faceted boxplots function
 - Pathway analysis function 
 
-# Required files: 
+## Required files: 
 4 files 
   - em: a normalised expression matrix
   - de: differential expression statistics between each sample group of interest 
   - annotation: genome annotation
   - ss: sample group information. 
 
-# Required installation of the following R libraries: 
-- library(ggplot2)
+## Required installation of the following R libraries: 
+`- library(ggplot2)
 - library(reshape2)
 - library(ggrepel)
 - library(tidyverse)
@@ -37,4 +37,4 @@ The code parses the files and produces the following plots and analyses:
 - library(org.Hs.eg.db)
 - library(enrichplot)
 - library(GOSemSim)
-- library(DOSE)
+- library(DOSE)`
