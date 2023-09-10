@@ -27,7 +27,7 @@ The code parses the files and produces the following plots and analyses:
   - ss: sample group information. 
 
 ## Required installation of the following R libraries: 
-`- library(ggplot2)
+- library(ggplot2)
 - library(reshape2)
 - library(ggrepel)
 - library(tidyverse)
@@ -37,4 +37,4 @@ The code parses the files and produces the following plots and analyses:
 - library(org.Hs.eg.db)
 - library(enrichplot)
 - library(GOSemSim)
-- library(DOSE)`
+- library(DOSE)
