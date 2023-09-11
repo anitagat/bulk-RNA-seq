@@ -7,9 +7,6 @@ The code parses the files and produces the following plots and analyses:
 - Heatmap 
 - Faceted boxplots 
 - Pathway analysis
-
-![](figures.png)
-![](figures2.png)
   
 ## Table of contents: 
 - Parsing function
