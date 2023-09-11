@@ -1,6 +1,7 @@
 # Bulk RNA-seq analyses in R
 
-The code parses the files and produces the following plots and analyses:
+The code parses the files and produces the following plots and analyses that can be used as paper-ready figures:
+
 - Volcano plot 
 - MA plot 
 - PCA 
@@ -8,6 +9,11 @@ The code parses the files and produces the following plots and analyses:
 - Faceted boxplots 
 - Pathway analysis
   
+  
+**Example figures:** 
+![](figures.png)
+![](figures2.png)
+
 ## Table of contents: 
 - Parsing function
 - save.png function
